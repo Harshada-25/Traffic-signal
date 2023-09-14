@@ -1,0 +1,119 @@
+
+.z {
+    background-color: rgb(176, 224, 243);
+}
+
+
+h1{
+    position: absolute;
+    top:10%;
+    font-size: 50px;
+    text-decoration: underline rgb(12, 12, 12);
+}
+
+h2{
+    position: absolute;
+    top:15%;
+    font-size: 30px;
+    color: red;
+    left: 800px;
+    text-decoration: underline red;
+}
+
+h3{
+    position: absolute;
+    top:35%;
+    font-size: 30px;
+    color: yellow;
+    left: 800px;
+    text-decoration: underline yellow
+    
+}
+
+
+
+h4{
+    position: absolute;
+    top:60%;
+    font-size: 30px;
+    color: green;
+    left: 800px;
+    text-decoration: underline darkgreen;
+    
+}
+
+
+
+.box{
+    background-color:goldenrod;
+    border-color: purple;
+    height: 380px;
+    width: 245px;
+    position: absolute;
+    top: 15%;
+    left: 500px;
+    border-style: solid ;
+    border-color:goldenrod;
+    border-radius: 25px;
+}
+.top
+{
+    width: 220px;
+    height: 370px;
+    background-color:black;
+    position: absolute;
+    top: 16%;
+    left: 510px;
+    border-style: solid ;
+    border-color:black;
+    border-radius: 20px;
+}
+
+.bot{
+    background-color:yellow;
+    width: 95px;
+    height: 95px;
+    position: absolute;
+    top: 40%;
+    left: 580px;
+    border-style: solid ;
+    border-color: yellow;
+    border-radius: 860px;
+}
+.moto{
+    background-color: red;
+    width: 95px;
+    height: 95px;
+    position: absolute;
+    top:18%;
+    left:580px ;
+    border-style: solid ;
+    border-color: red;
+    border-radius: 860px;
+}
+.chotu{
+        background-color: green;
+        width: 95px;
+        height: 95px;
+        position: absolute;
+        top:61%;
+        left:580px ;
+        border-style: solid ;
+        border-color: green;
+        border-radius: 860px;
+    
+}
+
+.x{
+    background-color:goldenrod;
+    width: 50px;
+    height: 200px;
+    position: absolute;
+    top:92%;
+    left:596px ;
+    border-style: solid ;
+    border-color: goldenrod;
+    border-radius: 5px;
+    
+
+}
